@@ -83,7 +83,7 @@ h2{
     padding: 1rem;
 }
 .hero{
-    background-image: url(/img/hero.jpg);
+    background-image: url(img/hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 450px;
